@@ -37,8 +37,8 @@ constructor(width,height)
 
 drawScreen() {       
    //fill(this.color_1, 255, 255);   
-   if(this.metaBalls)
-   metab.drawMode();
+  // if(this.metaBalls)
+ //  metab.drawMode();
    
 
 
